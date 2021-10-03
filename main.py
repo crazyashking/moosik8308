@@ -4,7 +4,7 @@ import itertools
 import math
 import random
 import nacl
-# import ffmpeg
+import ffmpeg
 import discord
 import youtube_dl
 from async_timeout import timeout
