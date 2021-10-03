@@ -2,5 +2,5 @@ discord==1.0.1
 discord.py==1.7.3
 python-dotenv==0.19.0
 youtube-dl==2021.06.06
-ffmpeg==4.3.2
+ffmpeg-N-103968-g9fbe54e4b2-linux64-gpl-shared.tar.xz
 PyNaCl==1.4.0
